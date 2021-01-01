@@ -1,1 +1,2 @@
 # Internship-Project
+A new generation of user-centric information systems is emerging in health care as patient health record (PHR) systems. These systems create a platform supporting the new vision of health services that empowers patients and enables patient-provider communication, with the goal of improving health outcomes and reducing costs. This evolution has generated new sets of data and capabilities, providing opportunities and challenges at the user, system, and industry levels.
